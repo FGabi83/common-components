@@ -1,0 +1,1 @@
+Simple navigation, adjusted to screen size, not fixed to top
