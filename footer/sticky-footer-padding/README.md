@@ -1,0 +1,1 @@
+Sticky footer with wrapper div
