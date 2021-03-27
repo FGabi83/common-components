@@ -1,0 +1,1 @@
+"Awsome Company" simple footer design, not sticky.
