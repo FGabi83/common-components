@@ -1,0 +1,1 @@
+Same as sticky-footer-padding without the necessity of a wrapper div
